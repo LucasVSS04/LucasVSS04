@@ -7,7 +7,8 @@
 </h1>
 
 ## Sobre mim:
-Sou 
+- Sou estudante do IFES, cursando Sistemas de Informação
+- Interessado na parte de gestão de projetos e pessoas e cibersegurança.
 
 ## Tecnologias Utilizadas:
 <div>
