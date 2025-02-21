@@ -1,5 +1,5 @@
 <p align = "center">
-  <img src="giphy.gif" width="325px">
+  <img src="giphy.gif" width="425px">
 </p>
 <h1 align = "center">
   Bem vindo(a) ao meu GitHub 
@@ -7,8 +7,8 @@
 </h1>
 
 ## Sobre mim:
-- 🧠 Me chamo Lucas Vianna 
-- <img src = "ifes.jpg " width = "20px" >  Estudante do IFES, cursando Sistemas de Informação. 
+- 🧠 Me chamo Lucas Vianna.
+- <img src = "IFES.png " width = "20px" >  Estudante do IFES, cursando Sistemas de Informação. 
 - 🔒 Interessado na parte de gestão de projetos e pessoas e cibersegurança.
 - 📈 Disposto ao aprendizado e focado no desenvolvimento.
 
