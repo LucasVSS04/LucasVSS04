@@ -7,17 +7,24 @@
 </h1>
 
 ## Sobre mim:
-- Sou estudante do IFES, cursando Sistemas de Informação
-- Interessado na parte de gestão de projetos e pessoas e cibersegurança.
+- 🧠 Me chamo Lucas Vianna 
+- <img src = "ifes.jpg " width = "20px" >  Estudante do IFES, cursando Sistemas de Informação. 
+- 🔒 Interessado na parte de gestão de projetos e pessoas e cibersegurança.
+- 📈 Disposto ao aprendizado e focado no desenvolvimento.
 
 ## Tecnologias Utilizadas:
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
-
-
 </div>
 
+## Estatísticas do GitHub 📊
+
+<img height = "200em" src="https://github-readme-stats.vercel.app/api?username=LucasVSS04&show_icons=true&show_icons=true&theme=bear&count_private=true" />
+
+## Linguagens Mais Usadas
+
+<img height = "200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasVSS04&show_icons=true&theme=bear&count_private=true"/>
 
 ## Me econtre em:
 <p align="left">
