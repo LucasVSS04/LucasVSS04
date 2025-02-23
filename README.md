@@ -8,6 +8,7 @@
 
 ## Sobre mim:
 - 🧠 Me chamo Lucas Vianna.
+- 📍 Cachoeiro de Itapemirim,ES.
 - <img src = "IFES.png " width = "20px" >  Estudante do IFES, cursando Sistemas de Informação. 
 - 🔒 Interessado na parte de gestão de projetos e pessoas e cibersegurança.
 - 📈 Disposto ao aprendizado e focado no desenvolvimento.
